@@ -46,7 +46,7 @@ import {
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "ReactJS Developer",
       icon: mobile,
     },
     {
@@ -54,7 +54,7 @@ import {
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "NextJS Creator",
       icon: creator,
     },
   ];
@@ -198,51 +198,51 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "IMAGINIFY",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Developed a state-of-the-art AI image SaaS platform utilizing Cloudinary AI for comprehensive image processing capabilities:restoration, recoloring, object removal, generative filling, and background removal.",
       tags: [
         {
-          name: "react",
+          name: "cloudinaryAI",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "Mongodb",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "NextJS",
           color: "pink-text-gradient",
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/devu5-2/imaginify",
     },
     {
-      name: "Job IT",
+      name: "Zoom Clone",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Built a real-time video conferencing web application using Next.js and TypeScript",
       tags: [
         {
-          name: "react",
+          name: "GetStream",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "NextJS",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "css",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/devu5-2/zoom",
     },
     {
-      name: "Trip Guide",
+      name: "Contact Manager App",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Developed CRUD-based contact management app using ReactJS, Javascript, Tailwind CSS, Redux, React Router v6, and ReactQuery, providing full Create, Read, Update, and Delete (CRUD) operations for managing contact information",
       tags: [
         {
           name: "nextjs",
@@ -258,8 +258,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
-    },
+      source_code_link: "https://github.com/devu5-2/covidcase-ND-contact-manager-app
   ];
   
   export { services, technologies, experiences, testimonials, projects };
