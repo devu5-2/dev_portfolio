@@ -258,7 +258,8 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/devu5-2/covidcase-ND-contact-manager-app
+      source_code_link: "https://github.com/devu5-2/covidcase-ND-contact-manager-app",
+    }
   ];
   
   export { services, technologies, experiences, testimonials, projects };
